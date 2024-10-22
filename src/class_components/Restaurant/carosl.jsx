@@ -6,7 +6,6 @@ import Carousel from 'react-bootstrap/Carousel';
 class Caro extends Component{
 
   render(){
-<> 
    
 
     return(
@@ -43,7 +42,7 @@ class Caro extends Component{
       
       </>
   )
-  </>
+
   }
 
 }
